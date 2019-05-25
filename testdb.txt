@@ -1,0 +1,41 @@
+{
+"name":"Rohit Roushan",
+"rank":"Constable",
+"available":true,
+"geometry":{"type":"point","coordinates":[84.814561,19.3492787]}
+}
+
+{
+"name":"Shubham Poddar",
+"rank":"Constable",
+"available":false,
+"geometry":{"type":"point","coordinates":[85.814462,20.3492700]}
+}
+
+{
+"name":"Utkarsh Singh",
+"rank":"Constable",
+"available":true,
+"geometry":{"type":"point","coordinates":[85.844561,20.3892787]}
+}
+
+{
+"name":"Rahul Pandey",
+"rank":"Constable",
+"available":true,
+"geometry":{"type":"point","coordinates":[65.814561,25.3492787]}
+}
+
+{
+"name":"Saurabh Chauhan",
+"rank":"Constable",
+"available":false,
+"geometry":{"type":"point","coordinates":[85.816761,20.3488787]}
+}
+
+{
+"name":"Shivam Singh",
+"rank":"Constable",
+"available":true,
+"geometry":{"type":"point","coordinates":[85.814001,20.3002787]}
+}
